@@ -51,6 +51,27 @@ Disadvantages of web apps
 Birth of PWA
 ============
 
+Why PWA?
+--------
+If you notice carefully, you'd see that the advantages native apps provide are actually the things web apps can't provide, and the advantages the web app provides, the native apps are at a disadvantage on those points.
+
+> PWA is here to solve the problems of both native and web apps by taking best of the both worlds.
+
+What is a PWA?
+--------------
+But, what is a PWA?
+
+Let's discuss what advantages a web app should provide to become a PWA:
+
+1. It must progressively give native feels
+2. It should be platform independent i.e. a single app should run every platform
+3. It should provide a installation system like native apps and can be open like native apps
+4. It should support push notifications like native apps
+5. It should provide caching to work offline
+6. The upgrade of app should be smoother than the native apps(like web apps)
+7. It should take advantage of SEO
+
+So, if any web app that could provide the above advantages, should be called `Progressive Web App`.
 
 
 How PWA is implemented
