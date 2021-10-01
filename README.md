@@ -23,6 +23,7 @@ Disadvantages of native apps
 3. No SEO
 4. Huge Size
 5. Slow development
+6. Complex upgrade system
 
 
 Advantages of web apps
@@ -32,6 +33,7 @@ Advantages of web apps
 3. Fast development
 4. Less Size
 5. SEO
+6. Easy to upgrade
 
 
 Disadvantages of web apps
@@ -45,8 +47,10 @@ Disadvantages of web apps
 7. No as easy as using native apps
 
 
+
 Birth of PWA
 ============
+
 
 
 How PWA is implemented
