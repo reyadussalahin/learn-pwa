@@ -1,5 +1,5 @@
 <h1 align="center">Progressive Web Applications</h1>
-<p align="center">The future way of building Applications</p>
+<p align="center">The future way of building Apps</p>
 <p align="center">
     <span>
         <a href="https://github.com/reyadussalahin/pwa/blob/main/LICENSE">
