@@ -95,6 +95,20 @@ Note: PWA is also a web app, so it has all the advantages of a web app
 Disadvantages of PWA
 ====================
 
+Just like everything, PWA has also downsides:
+
+1. Not as fast and responsive as native apps(though reasonably fast enough)
+2. Service workers are not available in all browsers over all versions.
+3. Needs to maintain a service worker file which acts as an proxy between browser and network, so not as straight forward and easy as a normal web app.
+4. Service worker makes it a bit complex to get the head around how the app development is going to be.
+5. Service worker updating could be a bit of a problem(ref: https://www.youtube.com/watch?v=JJSloXLTyNg)
+6. A bad service worker replacement in clients browser is not as easy as it seems:
+    - ref: https://twitter.com/kentcdodds/status/1053343264328212480?lang=en
+    - ref: https://twitter.com/frontstuff_io/status/1281928815476912128
+    - ref: https://twitter.com/kentcdodds/status/1281938429702332416
+    - ref: https://twitter.com/kentcdodds/status/1053241715153227777
+7. Service worker is a new thing(only a couple of years old), so it may be a bit behind in features when comparing with native advantages. But check this for confirmation: https://jakearchibald.github.io/isserviceworkerready/
+
 
 
 A Simple Demo
