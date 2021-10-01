@@ -53,7 +53,7 @@ Birth of PWA
 
 Why PWA?
 --------
-If you notice carefully, you'd see that the advantages native apps provide are actually the things web apps can't provide, and the advantages the web app provides, the native apps are at a disadvantage on those points.
+If you notice carefully, you'd see that the advantages native apps provide, are actually the things web apps can't provide, and the advantages the web apps provide, the native apps are at a disadvantage on those things.
 
 > PWA is here to solve the problems of both native and web apps by taking best of the both worlds.
 
