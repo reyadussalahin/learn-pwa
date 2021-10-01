@@ -74,8 +74,21 @@ Let's discuss what advantages a web app should provide to become a PWA:
 So, if any web app that could provide the above advantages, should be called `Progressive Web App`.
 
 
+
 How PWA is implemented
 ======================
+As you can imagine PWA's are web apps, but a special type of web apps. Below is given the constructs, which a web app uses or takes advantage of to become a PWA:
+
+1. PWA takes advantage of browser runtime(that's why it can run anywhere)
+2. PWA takes advantage of a browser construct called `Service Worker`
+    - Service worker runs in a separate thread than the browser's main thread
+    - Service worker can run in background(i.e. even when the browser is closed)
+    - Service worker acts as a proxy between the browser and the network
+    - Service worker uses cache to save assets locally or even dynamic pages for offline use(note: it's not the same as browser cache)
+    - Service worker can subscribe for push notifications
+3. PWA needs a manifest file to instruct the platform how the app is going to be installed in the system
+
+Note: PWA is also a web app, so it has all the advantages of a web app
 
 
 
