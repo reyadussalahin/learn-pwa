@@ -55,14 +55,14 @@ Disadvantages of native apps
 1. Need to built platform specific app(great cost)
 2. Need to maintain multiple apps(for each platform) and implement each feature in each app
 3. No SEO
-4. Huge Size
-5. Slow development
-6. Complex upgrade system
+4. Huge download size and also takes a lot of disk space
+5. Slow development(because multiple apps needs to be developed to reach users of every platform)
+6. Complex installation and upgrading system
 
 
 Advantages of web apps
 ----------------------
-1. Platform Independent(Works in Browser), so just a single app needs to maintained
+1. Platform Independent(Works in Browser), so just a single app needs to be maintained
 2. Less cost
 3. Fast development
 4. Less Size
@@ -99,7 +99,7 @@ Let's discuss what advantages a web app should provide to become a PWA:
 
 1. It must progressively give native feels
 2. It should be platform independent i.e. a single app should run every platform
-3. It should provide a installation system like native apps and can be open like native apps
+3. It should provide an easy installation and upgrading system like web apps but can also be open like native apps by clicking icons
 4. It should support push notifications like native apps
 5. It should provide caching to work offline
 6. The upgrade of app should be smoother than the native apps(like web apps)
@@ -113,7 +113,7 @@ How PWA is implemented
 ======================
 As you can imagine PWA's are web apps, but a special type of web apps. Below is given the constructs, which a web app uses or takes advantage of to become a PWA:
 
-1. PWA takes advantage of browser runtime(that's why it can run anywhere)
+1. PWA takes advantage of browser's runtime(that's why it can run anywhere)
 2. PWA takes advantage of a browser construct called `Service Worker`
     - Service worker runs in a separate thread than the browser's main thread
     - Service worker can run in background(i.e. even when the browser is closed)
