@@ -1,6 +1,40 @@
-# PWA
-The most concise guide to Progressive Web Applications
+<h1 align="center">Progressive Web Applications</h1>
+<p align="center">The future way of building Applications</p>
+<p align="center">
+    <span>
+        <a href="https://github.com/reyadussalahin/pwa/blob/main/LICENSE">
+            <img alt="License" src="https://img.shields.io/github/license/reyadussalahin/pwa?color=green&style=flat">
+        </a>
+    </span>
+    <span>
+        <a href="https://github.com/reyadussalahin/pwa/stargazers">
+            <img alt="Stars" src="https://img.shields.io/github/stars/reyadussalahin/pwa?style=flat&color=magenta">
+        </a>
+    </span>
+    <span>
+        <a href="https://github.com/reyadussalahin/pwa/network/members">
+            <img alt="Forks" src="https://img.shields.io/github/forks/reyadussalahin/pwa?style=flat">
+        </a>
+    </span>
+    <span>
+        <a href="https://github.com/reyadussalahin/pwa/pulls">
+            <img alt="PRs" src="https://img.shields.io/github/issues-pr/reyadussalahin/pwa?style=flat">
+        </a>
+    </span>
+    <span>
+        <a href="https://github.com/reyadussalahin/pwa/issues">
+            <img alt="Issues" src="https://img.shields.io/github/issues/reyadussalahin/pwa?style=flat&color=orange">
+        </a>
+    </span>
+</p>
+<hr>
+<p align="center">
+The most conside guide to learn progressive web applications
+</p>
+<hr>
 
+
+<sub>Connect with me in [linkedin](https://www.linkedin.com/in/reyadussalahin/) or say hi to [Twitter](https://twitter.com/reyadussalahin).</sub>
 
 
 History of Apps before PWA
