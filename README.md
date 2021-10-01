@@ -143,6 +143,11 @@ Just like everything, PWA has also downsides:
     - ref: https://twitter.com/kentcdodds/status/1053241715153227777
 7. Service worker is a new thing(only a couple of years old), so it may be a bit behind in features when comparing with native advantages. But check this for confirmation: https://jakearchibald.github.io/isserviceworkerready/
 
+**A few more concerns:**
+1. The first visit to a page will be slow since it must download the files and data to the cache
+2. Add to home screen functionality is seldom used(not as much as we expect it to be)
+3. Support between browsers varies widely depending on what technology you’re using. For example, service workers have good support but web app manifest does not, so it can be tricky to identify what you can use safely out of the box and what requires a polyfill from the start
+
 
 
 A Simple Demo
